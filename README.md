@@ -1,6 +1,7 @@
 # Generador de Citas APA 7
 
-<img width="998" height="985" alt="Preview" src="https://github.com/user-attachments/assets/6ec365d3-8f42-4efe-b856-d06ff167daea" />
+<img width="2358" height="2594" alt="Preview" src="https://github.com/user-attachments/assets/ca8c38fa-04a1-4d73-aeb5-781ee038bac8" />
+
 
 
 Una herramienta web estática, de código abierto, diseñada para facilitar a estudiantes y académicos la creación de referencias bibliográficas y citas en el formato APA 7ma Edición.
